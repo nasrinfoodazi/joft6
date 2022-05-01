@@ -1,7 +1,15 @@
-
-
+/*https://www.onlinewebfonts.com/search?q=tarrget*/
 @font-face {
     font-family: target;
+    font-style: normal;
+    font-weight: normal;
+    src: url("./Tarrget Regular.eot"),
+    url("./Tarrget Regular.woff2") format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+    url("./Tarrget Regular.woff") format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+    url("./Tarrget Regular.ttf") format('truetype');
+}
+@font-face {
+    font-family: targetLeftItalic;
     font-style: normal;
     font-weight: normal;
     src: url("./Tarrget Leftalic.eot"),
